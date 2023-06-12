@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavishcan
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python, Javascript and Java
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on anything 👀
 - 📫 How to reach me kavishcan2002@gmail.com
 
