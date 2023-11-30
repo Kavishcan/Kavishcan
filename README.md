@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **natours**
 
-- 🌱 I’m currently learning **MERN, OOP**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 How to reach me **kavishcan2002@gmail.com**
 
-- ⚡ Fun fact **You can call me JIMMY**
+- ⚡ Fun fact **I am fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
