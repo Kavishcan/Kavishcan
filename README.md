@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **accodemy**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **AI, LLMs and Cloud**
 
 - 📫 How to reach me **kavishcan2002@gmail.com**
 
