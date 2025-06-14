@@ -3,9 +3,9 @@
 <h3 align="left">A Passionate Fullstack Developer from SriLanka</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"> -->
 
-- 🔭 I’m currently working on **reviseplus-demo (private-repo)**
+- 🔭 I’m currently working on **something big**
 
-- 🌱 I’m currently learning **Next TS**
+- 🌱 I’m currently learning **Software**
 
 - 📫 How to reach me **kavishcan2002@gmail.com**
 
